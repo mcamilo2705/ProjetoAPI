@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FIC\\source\\repos\\ProjetoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94791382-B5C0-4644-AF8D-D8DC90CCE067}|ProjetoAPI.csproj|c:\\users\\fic\\source\\repos\\projetoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94791382-B5C0-4644-AF8D-D8DC90CCE067}|ProjetoAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94791382-B5C0-4644-AF8D-D8DC90CCE067}|ProjetoAPI.csproj|c:\\users\\fic\\source\\repos\\projetoapi\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94791382-B5C0-4644-AF8D-D8DC90CCE067}|ProjetoAPI.csproj|solutionrelative:repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94791382-B5C0-4644-AF8D-D8DC90CCE067}|ProjetoAPI.csproj|c:\\users\\fic\\source\\repos\\projetoapi\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94791382-B5C0-4644-AF8D-D8DC90CCE067}|ProjetoAPI.csproj|solutionrelative:model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\ProjetoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\source\\repos\\ProjetoAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:44:58.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\ProjetoAPI\\Repository\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\FIC\\source\\repos\\ProjetoAPI\\Repository\\ProdutoRepository.cs",
+              "RelativeToolTip": "Repository\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:35:00.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\source\\repos\\ProjetoAPI\\Model\\Produto.cs",
+              "RelativeDocumentMoniker": "Model\\Produto.cs",
+              "ToolTip": "C:\\Users\\FIC\\source\\repos\\ProjetoAPI\\Model\\Produto.cs",
+              "RelativeToolTip": "Model\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:22:37.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
